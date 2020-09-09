@@ -1,0 +1,4 @@
+﻿  TCP_Server.cpp
+c:\users\daniil\source\repos\foo_repos\foo_03_tcp_server_client\foo_03_tcp_server_client\tcp_server.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+  Foo_03_TCP_Server_Client.vcxproj -> C:\Users\Daniil\Source\Repos\Foo_Repos\Foo_03_TCP_Server_Client\Debug\Foo_03_TCP_Server.exe
+  Foo_03_TCP_Server_Client.vcxproj -> C:\Users\Daniil\Source\Repos\Foo_Repos\Foo_03_TCP_Server_Client\Debug\Foo_03_TCP_Server.pdb (Partial PDB)

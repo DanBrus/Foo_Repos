@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/Foo_04_Window
